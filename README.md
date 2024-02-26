@@ -2,4 +2,4 @@ Hi there 👋
 
 • 🔭 I’m currently working on something cool!
 
-• 🌱 I’m currently learning Coading.
+• 🌱 I’m currently learning Coding.
